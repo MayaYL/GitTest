@@ -1,1 +1,1 @@
-File B original content
+File B content changed by base
