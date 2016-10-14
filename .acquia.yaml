@@ -3,5 +3,5 @@ build-steps:
         type: script
         script:
           - echo "This is from the 'git test' repo"
-	  - cat a.txt
-	  - cat b.txt
+          - cat a.txt
+          - cat b.txt
