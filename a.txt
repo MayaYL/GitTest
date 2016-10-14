@@ -1,1 +1,1 @@
-File A is modified by the feature branch yet again.
+File A is modified by the feature branch.
