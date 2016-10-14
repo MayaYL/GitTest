@@ -1,0 +1,5 @@
+build-steps:
+    - prebuild:
+        type: script
+        script:
+          - echo "This is from the 'git test' repo"
